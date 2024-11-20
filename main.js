@@ -1,2 +1,2 @@
-let mensaje = "Hola gente de Adabyron";
+let mensaje = "Texto para el segundo commit";
 console.log(mensaje);
